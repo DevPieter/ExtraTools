@@ -6,4 +6,4 @@
 #### *Description: You get more tools with this mod.
 #### *Credits: programed by: Pieter Textures by: Pieter
 
-![alt text](https://github.com/SuperPieter/ExtraTools/blob/master/ExtraToolMod.png "All tools")
+![alt text](https://github.com/SuperPieter/ExtraTools/blob/master/ExtraToolMod.png "All tools in the mod.")
