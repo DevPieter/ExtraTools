@@ -1,5 +1,5 @@
 # ExtraTools
-## MinecraftMod
+###### MinecraftMod
 
 ### =-=-=-| Version: 1.0 | MC version: 1.12.2  |-=-=-=
 #### *Author: SuperPieter
